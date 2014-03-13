@@ -1,5 +1,5 @@
-dropwizard-helloworld
-=====================
+dropwizard-helloworld-v01
+========================
 
 $ mvn clean package
 
